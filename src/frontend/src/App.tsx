@@ -127,34 +127,34 @@ const AWARD_CATEGORIES: AwardCategory[] = [
 
 const JURY_MEMBERS: JuryMember[] = [
   {
-    name: "Hon. Justice R.K. Sharma",
-    designation: "Former Chief Justice, High Court of Delhi",
-    initials: "RS",
+    name: "Dr. Adv. Priya Thakur",
+    designation: "Founder of Vidhik Sahayata",
+    initials: "PT",
   },
   {
-    name: "Hon. Justice Priya Malhotra",
-    designation: "Judge, Supreme Court of India",
-    initials: "PM",
+    name: "Shri P.N. Thakur",
+    designation: "Co-Founder & Director",
+    initials: "PT",
   },
   {
-    name: "Sr. Adv. Arvind Mehta",
-    designation: "Senior Advocate, Supreme Court of India",
-    initials: "AM",
+    name: "Adv. Preeti Thakur",
+    designation: "Counsel Vidhik Sahayata, High Court of Delhi",
+    initials: "PT",
   },
   {
-    name: "Dr. Sunita Krishnan",
-    designation: "Dean, National Law University Delhi",
+    name: "Adv. Shruti Kriti",
+    designation: "Manager, Vidhik Sahayata",
     initials: "SK",
   },
   {
-    name: "Hon. Justice V.S. Rajan",
-    designation: "Retired Judge, Madras High Court",
-    initials: "VR",
+    name: "Adv. Jayprakash B. Somani",
+    designation: "Supreme Court of India",
+    initials: "JS",
   },
   {
-    name: "Ms. Deepa Narayan",
-    designation: "Chairperson, Bar Council of India",
-    initials: "DN",
+    name: "Adv. Manoj Chowdhury",
+    designation: "Supreme Court of India",
+    initials: "MC",
   },
 ];
 

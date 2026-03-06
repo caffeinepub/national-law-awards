@@ -156,6 +156,22 @@ const JURY_MEMBERS: JuryMember[] = [
     designation: "Supreme Court of India",
     initials: "MC",
   },
+  {
+    name: "Adv. Jayant Singh Tomar",
+    designation: "Supreme Court, High Court Delhi",
+    initials: "JT",
+  },
+  {
+    name: "Adv. Yukti Rathi",
+    designation: "Supreme Court, High Court Delhi",
+    initials: "YR",
+  },
+  {
+    name: "Mr. Rajneesh Kumar",
+    designation:
+      "Vidhik Sahayata | LL.B. | M.A. in Sociology | M.A. in Psychology",
+    initials: "RK",
+  },
 ];
 
 const BENEFITS = [

@@ -157,9 +157,9 @@ const JURY_MEMBERS: JuryMember[] = [
     initials: "MC",
   },
   {
-    name: "Adv. Jayant Singh Tomar",
+    name: "Jitendra Singh",
     designation: "Supreme Court, High Court Delhi",
-    initials: "JT",
+    initials: "JS",
   },
   {
     name: "Adv. Yukti Rathi",
@@ -171,6 +171,16 @@ const JURY_MEMBERS: JuryMember[] = [
     designation:
       "Vidhik Sahayata | LL.B. | M.A. in Sociology | M.A. in Psychology",
     initials: "RK",
+  },
+  {
+    name: "Adv. Vinod Kumar",
+    designation: "Supreme Court of India, NCDRC",
+    initials: "VK",
+  },
+  {
+    name: "Adv. Vipin Bharti",
+    designation: "Supreme Court of India",
+    initials: "VB",
   },
 ];
 
@@ -629,9 +639,9 @@ function HeroSection() {
    ============================================= */
 function AboutSection() {
   const stats = [
-    { value: "500+", label: "Nominees" },
-    { value: "50+", label: "Categories" },
-    { value: "100+", label: "Jury Members" },
+    { value: "100+", label: "Nominees" },
+    { value: "30+", label: "Categories" },
+    { value: "1000+", label: "Expected Attendees" },
   ];
 
   return (
@@ -753,7 +763,7 @@ function CategoriesSection() {
         <FadeIn>
           <SectionHeader
             eyebrow="Award Categories"
-            title="50+ Awards Across Every Dimension of Law"
+            title="30+ Awards Across Every Dimension of Law"
             subtitle="From courtroom warriors to legal innovators — we honour the full spectrum of legal excellence in India."
           />
         </FadeIn>
